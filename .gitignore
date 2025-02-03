@@ -2,3 +2,5 @@
 .env
 /blogs
 /venv
+bot_convo.py
+initial.py
